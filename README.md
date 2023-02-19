@@ -1,1 +1,1 @@
-# glitzym.github.io
+# https://glitzym.github.io/Landing-Page/
